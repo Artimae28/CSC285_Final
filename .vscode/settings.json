@@ -1,0 +1,17 @@
+{
+    "java.project.sourcePaths": ["src"],
+    "java.project.outputPath": "bin",
+    "java.project.referencedLibraries": [
+        "lib/**/*.jar",
+        "d:\\Coding\\javafx-sdk-21.0.2\\lib\\javafx.base.jar",
+        "d:\\Coding\\javafx-sdk-21.0.2\\lib\\javafx.controls.jar",
+        "d:\\Coding\\javafx-sdk-21.0.2\\lib\\javafx.fxml.jar",
+        "d:\\Coding\\javafx-sdk-21.0.2\\lib\\javafx.graphics.jar",
+        "d:\\Coding\\javafx-sdk-21.0.2\\lib\\javafx.media.jar",
+        "d:\\Coding\\javafx-sdk-21.0.2\\lib\\javafx.swing.jar",
+        "d:\\Coding\\javafx-sdk-21.0.2\\lib\\javafx.web.jar",
+        "d:\\Coding\\javafx-sdk-21.0.2\\lib\\javafx-swt.jar",
+        "src/mysql-connector-java-5.1.34-bin.jar",
+        "src/patientrecords/mysql-connector-java-5.1.34-bin.jar"
+    ]
+}
